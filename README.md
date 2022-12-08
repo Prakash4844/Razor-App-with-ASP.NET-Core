@@ -1,4 +1,4 @@
-# React-App-with-ASP.NET-Core
+# Razor-App-with-ASP.NET-Core
 Create a Razor Pages web app with ASP.NET Core.
 
 This series of tutorials explains the basics of building a Razor Pages web app.  
